@@ -8,7 +8,7 @@ i have experience development web application using PHP (Laravel Framework, Lume
 
 * 🌍  I'm based in Depok, West Java, Indonesia.
 * ✉️  You can contact me at [github.guruh@gmail.com](mailto:github.guruh@gmail.com)
-* 🚀  I'm currently working on [Indonesia Maju University (Open for new work)](http://uima.ac.id)
+* 🚀  I'm currently working on PT Dwi Tunggal Putra
 * 🧠  I'm learning Golang for development REST API
 * ⚡  I'm coffee lover, world history buff, and programming enthusiast
 
