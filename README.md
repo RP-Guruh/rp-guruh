@@ -1,8 +1,8 @@
 Hi 👋 My name is Guruh Rachmat Pribadi
 ======================================
 
-Web Developer
--------------
+Web Programmer
+--------------
 
 i have experience development web application using PHP (Laravel Framework, Lumen), CSS (Tailwind, Bootstrap), and database with MySQL - Postgresql. I have some example project in my portofolio.
 
