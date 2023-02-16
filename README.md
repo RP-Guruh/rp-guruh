@@ -35,6 +35,12 @@ i have experience development web application using PHP (Laravel Framework, Lume
 <a href="https://www.linkedin.com/in/guruh-rachmat-pribadi-8a7a081b3/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
 
-### Badges
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rp-guruh&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rp-guruh&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rp-guruh&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<a href="https://github.com/rp-guruh" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rp-guruh&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
+[![](https://visitcount.itsvg.in/api?id=rp-guruh&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
